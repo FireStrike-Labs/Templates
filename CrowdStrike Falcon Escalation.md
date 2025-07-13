@@ -24,6 +24,7 @@ This is {{ analyst name }} with the {{ company name}}, Managed Detection & Respo
 </br>
 ## Incident Details
 </br>
+
 | Field                     | Artifact                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Dection Time (UTC)**      | {{detection time in UTC}}                                                                                          |
