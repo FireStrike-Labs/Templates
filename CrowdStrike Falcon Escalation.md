@@ -15,7 +15,7 @@ Hello Team,
 
 This is {{ analyst name }} with the {{ company name}}, Managed Detection & Response (MDR) Team. We are reaching out today in regards to {{ escalation reason }}.
 
-/br>
+</br>
 ## Escalation Summary
 
 {{ Provide high-level overview of reason for reaching out. About 4-6 sentences }}
