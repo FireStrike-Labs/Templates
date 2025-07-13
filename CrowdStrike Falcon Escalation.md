@@ -20,12 +20,10 @@ This is {{ analyst name }} with the {{ company name}}, Managed Detection & Respo
 {{ Provide high-level overview of reason for reaching out. About 4-6 sentences }}
 
 </br>
-
 ---
 </br>
 ## Incident Details
 </br>
-
 | Field                     | Artifact                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Dection Time (UTC)**      | {{detection time in UTC}}                                                                                          |
@@ -48,17 +46,13 @@ malicious.exe
 </br>
 ## Actions Taken
 </br>
-
 {{ Provide details about what has been done to contain and/or eradicate the source of the incident }}
-
 </br>
 ---
 ## Initial Recommendations
 </br>
-
 * Provide instructions or recommendations to the client to either help facilitate the containment, eradication, or remediation of an incident.
 * Provide instructions or recommendations to the client to help facilitate closing the case out (i.e, verification of legitimacy of activity).
-
 </br>
 ---
 </br>
@@ -74,16 +68,15 @@ malicious.exe
 ---
 </br>
 ## Impact
-
+<br>
 - _Provide insights for why this presents risk to the organization and what the impact of that risk is or would be_
-
 </br>
 ---
 </br>
 ## References
-
+<br>
 >For additional details regarding the subject of this escalation communication, please refer to the information provided below.
-
+<br>
 * _In tabular format_ * 
 
 | Resources Link                   | Description                                                                                                                                                                                              |
