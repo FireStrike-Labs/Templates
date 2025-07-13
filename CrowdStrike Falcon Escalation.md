@@ -11,8 +11,7 @@ It is essential for the Managed Detection & Response team to have a standardized
 > L1/L2/L3 MDR Analyst(s)
 
 Hello Team, 
---------------------------------------
-
+---
 This is {{ analyst name }} with the {{ company name}}, Managed Detection & Response (MDR) Team. We are reaching out today in regards to {{ escalation reason }}.
 
 </br>
