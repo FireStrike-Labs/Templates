@@ -29,7 +29,7 @@ This is {{ analyst name }} with the {{ company name}}, Managed Detection & Respo
 
 | Field                     | Artifact                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Dection Time (UTC)      | {{detection time in UTC}}                                                                                          |
+| **Dection Time (UTC)**      | {{detection time in UTC}}                                                                                          |
 | **Hostname**              | {{affected endpoint name}}                                                                                         |
 | **Username**              | {{affected user}}                                                                                                  |
 | **Operating System**      | {{affected endpoint operation system}}                                                                             |
