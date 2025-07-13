@@ -35,6 +35,7 @@ This is {{ analyst name }} with the {{ company name}}, Managed Detection & Respo
 | **Threat IP Address(es)** | {{malicious IP addresses if present}}                                                                              |
 | **Threat File Path**      |                                                                                                                    |
 | **Threat File Hash**      |                                                                                                                    |
+
 **Threat Process Tree**: _display process tree in the ascii art format below_
 malicious.exe
 |
@@ -59,6 +60,7 @@ malicious.exe
 </br>
 ## Root Cause Analysis
 <br>
+
 - _In tabular format_
 	- Cover the timeline of events
 	- Cover the source, was it user generated, programatic, interactive, social engineering, etc.
