@@ -37,6 +37,7 @@ This is {{ analyst name }} with the {{ company name}}, Managed Detection & Respo
 | **Threat File Hash**      |                                                                                                                    |
 
 **Threat Process Tree**: _display process tree in the ascii art format below_
+
 malicious.exe
 |
 +-- rundll32.exe
